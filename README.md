@@ -1,4 +1,3 @@
-/*
   Implementarea unei retele de senzori wireless pentru monitorizarea unui teren agricol
 
   Agregarea valorilor primite de la diversi senzori de mediu ce sunt apoi transmise unui server central unde sunt stocate, analizate si dupa care afisate.
@@ -15,4 +14,3 @@
 
   http://proiect.holicov.com
 
-*/
